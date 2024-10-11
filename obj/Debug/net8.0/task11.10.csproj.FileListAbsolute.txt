@@ -1,0 +1,15 @@
+C:\Users\Kubra\source\repos\homework\task11.10\task11.10\bin\Debug\net8.0\task11.10.exe
+C:\Users\Kubra\source\repos\homework\task11.10\task11.10\bin\Debug\net8.0\task11.10.deps.json
+C:\Users\Kubra\source\repos\homework\task11.10\task11.10\bin\Debug\net8.0\task11.10.runtimeconfig.json
+C:\Users\Kubra\source\repos\homework\task11.10\task11.10\bin\Debug\net8.0\task11.10.dll
+C:\Users\Kubra\source\repos\homework\task11.10\task11.10\bin\Debug\net8.0\task11.10.pdb
+C:\Users\Kubra\source\repos\homework\task11.10\task11.10\obj\Debug\net8.0\task11.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubra\source\repos\homework\task11.10\task11.10\obj\Debug\net8.0\task11.10.AssemblyInfoInputs.cache
+C:\Users\Kubra\source\repos\homework\task11.10\task11.10\obj\Debug\net8.0\task11.10.AssemblyInfo.cs
+C:\Users\Kubra\source\repos\homework\task11.10\task11.10\obj\Debug\net8.0\task11.10.csproj.CoreCompileInputs.cache
+C:\Users\Kubra\source\repos\homework\task11.10\task11.10\obj\Debug\net8.0\task11.10.sourcelink.json
+C:\Users\Kubra\source\repos\homework\task11.10\task11.10\obj\Debug\net8.0\task11.10.dll
+C:\Users\Kubra\source\repos\homework\task11.10\task11.10\obj\Debug\net8.0\refint\task11.10.dll
+C:\Users\Kubra\source\repos\homework\task11.10\task11.10\obj\Debug\net8.0\task11.10.pdb
+C:\Users\Kubra\source\repos\homework\task11.10\task11.10\obj\Debug\net8.0\task11.10.genruntimeconfig.cache
+C:\Users\Kubra\source\repos\homework\task11.10\task11.10\obj\Debug\net8.0\ref\task11.10.dll
